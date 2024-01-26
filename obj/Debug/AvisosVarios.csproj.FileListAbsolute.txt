@@ -1,0 +1,7 @@
+D:\C#\AvisosVarios\bin\Debug\AvisosVarios.exe.config
+D:\C#\AvisosVarios\bin\Debug\AvisosVarios.exe
+D:\C#\AvisosVarios\bin\Debug\AvisosVarios.pdb
+D:\C#\AvisosVarios\obj\Debug\AvisosVarios.csproj.AssemblyReference.cache
+D:\C#\AvisosVarios\obj\Debug\AvisosVarios.csproj.CoreCompileInputs.cache
+D:\C#\AvisosVarios\obj\Debug\AvisosVarios.exe
+D:\C#\AvisosVarios\obj\Debug\AvisosVarios.pdb
